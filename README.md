@@ -78,7 +78,7 @@ Details in: `datasets/dataset_description.txt`
 
 Download the datasets from the following source:
 
-📎 [Download Datasets]([https://your-download-link.com](https://stubask-my.sharepoint.com/:f:/g/personal/xcervenkak_stuba_sk/EgEMqJhbrlNNn1vZ0pnLjiEBKfZcCu-DPK9uTWW1OBJ7Gg?e=Q77gfR))
+📎 [Download Datasets](https://stubask-my.sharepoint.com/:f:/g/personal/xcervenkak_stuba_sk/EgEMqJhbrlNNn1vZ0pnLjiEBKfZcCu-DPK9uTWW1OBJ7Gg?e=Q77gfR)
 
 ---
 
